@@ -1,2 +1,3 @@
-# artificial_intelligence
-Repo for AI Nanodegree Udacity
+# Artificial Intelligence
+
+Repo containing lessons and solutions for the AI Nanodegree (Udacity)
