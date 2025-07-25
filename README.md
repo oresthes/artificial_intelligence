@@ -1,3 +1,5 @@
 # Artificial Intelligence
 
-Repo containing lessons and solutions for the AI Nanodegree (Udacity)
+Recording notes and exercises from Stanfords's Online AI Courses
+
+
